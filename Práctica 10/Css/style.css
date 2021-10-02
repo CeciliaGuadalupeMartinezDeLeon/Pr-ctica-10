@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color:rgb(205, 228, 123);
+    text-align:justify;
+}
+nav{
+    background-color:rgb(11, 12, 14);
+}
+footer {
+	background-color:#fcb74f;
+	height: 18%;
+    
+  color: rgb(0, 0, 0);
+  padding: 25px;
+ 
+}
+.main1 { 
+    display:flex;
+    margin:0 auto;
+  }
